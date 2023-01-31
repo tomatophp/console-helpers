@@ -1,4 +1,4 @@
-![Screenshot](./art/screenshot.png)
+![Screenshot](https://github.com/tomatophp/console-helpers/blob/master/art/screenshot.png)
 
 # Laravel Console Helpers
 
