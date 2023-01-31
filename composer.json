@@ -1,0 +1,32 @@
+{
+    "name": "tomatophp/console-helpers",
+    "description": "tons of helper you need for you artisan command line application",
+    "license": "MIT",
+    "keywords": [
+        "console",
+        "helpers",
+        "artisan",
+        "command",
+        "line",
+        "application"
+    ],
+    "autoload": {
+        "psr-4": {
+            "TomatoPHP\\ConsoleHelpers\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TomatoPHP\\ConsoleHelpers\\ConsoleHelpersServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Fady Mondy",
+            "email": "EngFadyMondy@gmail.com"
+        }
+    ],
+    "require": {}
+}
